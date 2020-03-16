@@ -1,19 +1,18 @@
-Name,Lat,Lng,Address
-Costco Wholesale,41.26532359999999,-81.5074005,"6720 Bass Pro Dr, Hudson"
-Costco Wholesale,41.3169081,-81.8159034,"16690 Royalton Rd, Strongsville"
-Costco Wholesale,41.5239553,-81.4466104,"1409 Golden Gate Blvd, Cleveland"
-Costco Wholesale,41.4605331,-82.0110016,"35804 Detroit Rd, Avon"
-Sam's Club,41.1181572,-81.46922119999999,"1189 Buchholzer Blvd, Cuyahoga Falls"
-Sam's Club,41.1331752,-81.6331853,"3750 W Market St Unit J, Fairlawn"
-Sam's Club,40.8781738,-81.43716429999999,"4790 Portage St NW, Canton"
-Sam's Club,41.3664126,-81.5123818,"23300 Broadway Ave, Oakwood"
-Sam's Club,41.42028,-81.757481,"10250 Brookpark Rd, Cleveland"
-Sam's Club,41.4218436,-82.0815143,"5225 Cobblestone Rd, Sheffield"
-Sam's Club,41.7172108,-81.29339519999999,"5600 Emerald Ct, Mentor"
-Sam's Club,41.03433,-80.6336,"6361 South Ave, Youngstown"
-BJ's Wholesale,41.115934,-81.4825905,"1677 Home Ave, Akron"
-BJ's Wholesale,40.8816904,-81.43993619999999,"6924 Frank Ave NW, North Canton"
-BJ's Wholesale,41.4419517,-81.4969558,"4365 Richmond Rd, Warrensville Heights"
-BJ's Wholesale,41.376131,-81.786051,"6944 W 130th St, Middleburg Heights"
-BJ's Wholesale,41.4632057,-82.0500783,"38292 Colorado Ave, Avon"
-BJ's Wholesale,41.63104209999999,-81.4260547,"36595 Euclid Ave, Willoughby"
+Name,Lat,Lng,Address,Place ID,County
+Costco Wholesale,41.26532359999999,-81.5074005,"6720 Bass Pro Dr, Hudson",ChIJrwEsWXIgMYgRnko93meT4s0,Summit County
+Costco Wholesale,41.3169081,-81.8159034,"16690 Royalton Rd, Strongsville",ChIJNa2MJXnqMIgRmZ164eouXjE,Cuyahoga County
+Costco Wholesale,41.4605331,-82.0110016,"35804 Detroit Rd, Avon",ChIJSZghHbmRMIgRfCrrH_q0OJI,Lorain County
+Costco Wholesale,41.5239553,-81.4466104,"1409 Golden Gate Blvd, Cleveland",ChIJz_ruA18BMYgRY7HfgmroTWg,Cuyahoga County
+Sam's Club,40.8781738,-81.43716429999999,"4790 Portage St NW, Canton",ChIJ2Yr2wKjWNogRjGilwuTNZyU,Mahoning County
+Sam's Club,41.3664126,-81.5123818,"23300 Broadway Ave, Oakwood",ChIJDV-HRwceMYgRIYsH9N1b_HQ,Cuyahoga County
+Sam's Club,41.42028,-81.757481,"10250 Brookpark Rd, Cleveland",ChIJ1fa4rIzuMIgRFMsgyqQYFWE,Cuyahoga County
+Sam's Club,41.4218436,-82.0815143,"5225 Cobblestone Rd, Sheffield",ChIJX_t1UjKaMIgRHM2sNhFFxyU,Lorain County
+Sam's Club,41.22619539999999,-80.7448357,"1040 Niles Cortland Rd SE, Warren",ChIJaY-CnZ_gM4gRng6y-UmPoRY,Trumbull County
+Sam's Club,41.7172108,-81.29339519999999,"5600 Emerald Ct, Mentor",ChIJ0Ux7Jf2kMYgRF3vi1W6CpKg,Lake County
+Sam's Club,41.03433,-80.6336,"6361 South Ave, Youngstown",ChIJkW7Vup36M4gRgrjjdp3j20U,Boardman Township
+BJ's Wholesale,41.115934,-81.4825905,"1677 Home Ave, Akron",ChIJr1lVVGUoMYgRZyNHvaFakyk,Summit County
+BJ's Wholesale,40.8816904,-81.43993619999999,"6924 Frank Ave NW, North Canton",ChIJv7wm5qfWNogR-pHBWCbJJ4Y,Stark County
+BJ's Wholesale,41.4419517,-81.4969558,"4365 Richmond Rd, Warrensville Heights",ChIJlxu-3EsdMYgRQNm9xU4cwUM,Cuyahoga County
+BJ's Wholesale,41.376131,-81.786051,"6944 W 130th St, Middleburg Heights",ChIJd7jukOTrMIgRbFLNX469JvM,Cuyahoga County
+BJ's Wholesale,41.4632057,-82.0500783,"38292 Colorado Ave, Avon",ChIJ_VAprpmaMIgRdiXIOGEAp6w,Lorain County
+BJ's Wholesale,41.63104209999999,-81.4260547,"36595 Euclid Ave, Willoughby",ChIJs99FxoepMYgRDybNRcg4FRU,Lake County
