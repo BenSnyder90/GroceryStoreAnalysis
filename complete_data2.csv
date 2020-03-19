@@ -29,7 +29,7 @@ ALDI,41.0562721,-81.58261069999998,"2100 Romig Rd, Akron",ChIJr3nN0aHWMIgRoDPxj1
 ALDI,41.1326032,-81.63769740000002,"120 S Cleveland Massillon Rd, Fairlawn",ChIJv2VMXoPQMIgRzsKcr6L9Ka0,Summit County,"541,810","$              55,448","$              32,055","69,576",12.84%
 ALDI,40.951172,-81.46471729999998,"4055 Massillon Rd, Uniontown",ChIJrYX1wXXVNogRHaTdJ1Ajp3s,Summit County,"541,810","$              55,448","$              32,055","69,576",12.84%
 ALDI,41.3149541,-81.5252616,"371 E Aurora Rd, Macedonia",ChIJRx33vSTgMIgRb7ghL8vkpWk,Summit County,"541,810","$              55,448","$              32,055","69,576",12.84%
-Whole Foods Market,41.1109081,-81.5711638,"1745 W Market St, Akron",ChIJB3vkhhLXMIgR9x9lR-du8Rs,Summit County,"541,810","$              55,448","$              32,055","69,576",12.84%
+Whole Foods,41.1109081,-81.5711638,"1745 W Market St, Akron",ChIJB3vkhhLXMIgR9x9lR-du8Rs,Summit County,"541,810","$              55,448","$              32,055","69,576",12.84%
 Marc's Stores,41.116686,-81.478218,"470 Howe Ave, Cuyahoga Falls",ChIJ6c_6sXsoMYgRyVebu0bib1Y,Summit County,"541,810","$              55,448","$              32,055","69,576",12.84%
 Marc's Stores,41.150560999999996,-81.510638,"2900 State Rd, Cuyahoga Falls",ChIJXy6_f4wnMYgRZ39wZSp3URs,Summit County,"541,810","$              55,448","$              32,055","69,576",12.84%
 Marc's Stores,41.165723,-81.44143299999998,"3732 Darrow Rd, Stow",ChIJsREC8YgmMYgRaiTIqzbloMg,Summit County,"541,810","$              55,448","$              32,055","69,576",12.84%
@@ -80,10 +80,10 @@ ALDI,41.5036341,-81.63653029999998,"7500 Euclid Ave, Cleveland",ChIJSS--f6X7MIgR
 ALDI,41.5228571,-81.4374651,"1385 Som Center Rd, Mayfield Heights",ChIJFf7FRmEBMYgRzVWUbl0Conc,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 ALDI,41.608861499999996,-81.52597370000002,"22300 Lakeshore Blvd, Euclid",ChIJI6Qff1dVMIgROmFuIK2Ll_M,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 ALDI,41.39000479999999,-81.43570229999997,"6217 Som Center Rd, Solon",ChIJZdhxe3YdMYgRlFKEtORxTzk,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
-Whole Foods Market,41.449988,-81.48507159999998,"50 Wall St, Orange",ChIJCwJfWF4DMYgRar7qW8_69zQ,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
-Whole Foods Market,41.5008761,-81.5368584,"13998 Cedar Rd, University Heights",ChIJn5sk0Jf9MIgRcQE1rMMcP1E,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
-Whole Foods Market,41.4787471,-81.8396406,"19607 Detroit Rd, Rocky River",ChIJAbAH8pnyMIgRd9si0bIe7Eo,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
-Whole Foods Market,41.463355,-81.486312,"27249 Chagrin Blvd, Woodmere",ChIJqXFgScICMYgRidxw8YLBJiM,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
+Whole Foods,41.449988,-81.48507159999998,"50 Wall St, Orange",ChIJCwJfWF4DMYgRar7qW8_69zQ,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
+Whole Foods,41.5008761,-81.5368584,"13998 Cedar Rd, University Heights",ChIJn5sk0Jf9MIgRcQE1rMMcP1E,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
+Whole Foods,41.4787471,-81.8396406,"19607 Detroit Rd, Rocky River",ChIJAbAH8pnyMIgRd9si0bIe7Eo,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
+Whole Foods,41.463355,-81.486312,"27249 Chagrin Blvd, Woodmere",ChIJqXFgScICMYgRidxw8YLBJiM,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Marc's Stores,41.3188802,-81.6247427,"7510 Chippewa Rd, Brecksville",ChIJoa58ID7nMIgRVzHExOAWDwE,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Marc's Stores,41.3887631,-81.4354475,"6231 Som Center Rd, Solon",ChIJK-50CnEcMYgRQRqaKDNLiho,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Marc's Stores,41.398374,-81.595173,"12650 Rockside Rd, Garfield Heights",ChIJtWhHKYzjMIgRVMRlV1vldPA,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
@@ -111,7 +111,7 @@ Dave's Markets,41.459452,-81.737391,"3565 Ridge Rd, Cleveland",ChIJPRnHoivuMIgR9
 Dave's Markets,41.4485998,-81.63528120000002,"7422 Harvard Ave, Cleveland",ChIJHfmkt8_kMIgRdYYHFyg09q8,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Dave's Markets,41.4245366,-81.6136405,"4948 Turney Rd, Garfield Heights",ChIJdfUXw5rkMIgR4AkN98DR--E,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Dave's Markets,41.4480706,-81.56257769999998,"16820 Harvard Ave, Cleveland",ChIJpZcqUyrjMIgRO0h587V7wLs,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
-Dave's Markets Corporate Headquarters,41.417009,-81.50090290000001,"5300 Richmond Rd, Bedford",ChIJmccEg5kdMYgR0tKybt9jc0M,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
+Dave's Markets,41.5382155,-81.49640140000002,"5100 Wilson Mills Rd, Richmond Heights",ChIJBfWgW-wBMYgRIF9pEnshn0Y,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Dave's Markets,41.500953700000004,-81.59313960000001,"12438 Cedar Rd, Cleveland Heights",ChIJEeeg0Xr8MIgRDfuurNJkdrk,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Dave's Markets,41.5175,-81.5530556,"3628 Mayfield Road Severance Town Center, Cleveland Heights",ChIJ38N3vg79MIgRS2iEG6qEzXQ,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Dave's Markets,41.5786111,-81.5694444,"15900 Lakeshore Blvd, Cleveland",ChIJDc1qGAX_MIgRglZ8nxHrrIk,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
@@ -129,7 +129,7 @@ Heinen's,41.5000366,-81.6861122,"900 Euclid Ave, Cleveland",ChIJDXu8A376MIgRfzR8
 Heinen's,41.481684,-81.83475299999998,"19219 Detroit Rd, Rocky River",ChIJi-tWP5DyMIgRHzxPPNHYj6Q,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Heinen's,41.537751799999995,-81.4401571,"860 Som Center Road, Mayfield, Village, Mayfield Village",ChIJdacIPkYBMYgRCczjbsaO5Uk,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Heinen's,41.48364979999999,-81.92210859999999,"434 Dover Center Rd, Bay Village",ChIJZb-nbY-NMIgRjlcsO5fKsu8,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
-Heinen's - Corporate Office,41.43749329999999,-81.5024719,"4540 Richmond Rd, Warrensville Heights",ChIJ68VTnU8dMYgRL7RjEccj0SQ,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
+Heinen's,41.399263399999995,-81.3344408,Bainbridge,ChIJNzAZpH4RMYgR59YHZlk6Z8g,Cuyahoga County,"1,253,783","$              48,435","$              31,804","221,899",17.70%
 Costco Wholesale,41.4605331,-82.0110016,"35804 Detroit Rd, Avon",ChIJSZghHbmRMIgRfCrrH_q0OJI,Lorain County,"306,713","$              56,965","$              29,777","40,799",13.30%
 Sam's Club,41.421843599999995,-82.0815143,"5225 Cobblestone Rd, Sheffield",ChIJX_t1UjKaMIgRHM2sNhFFxyU,Lorain County,"306,713","$              56,965","$              29,777","40,799",13.30%
 BJ's Wholesale,41.4632057,-82.0500783,"38292 Colorado Ave, Avon",ChIJ_VAprpmaMIgRdiXIOGEAp6w,Lorain County,"306,713","$              56,965","$              29,777","40,799",13.30%
@@ -145,7 +145,7 @@ Giant Eagle,41.026204,-80.67888599999998,"476 Boardman-Canfield Rd, Youngstown",
 Giant Eagle,41.0243835,-80.59281159999998,"3130 Center Rd, Poland",ChIJH3bj1lPwM4gRU7vR9Z2r-aE,Mahoning County,"231,064","$              44,682","$              27,429","39,441",17.07%
 ALDI,41.0987061,-80.7722433,"5863 Mahoning Ave, Austintown",ChIJh7WIieTiM4gR9JgdSCU_wW4,Mahoning County,"231,064","$              44,682","$              27,429","39,441",17.07%
 ALDI,41.031319599999996,-80.6352161,"6600 South Ave, Boardman",ChIJo0eLT576M4gRBUgfNurb328,Mahoning County,"231,064","$              44,682","$              27,429","39,441",17.07%
-Berry's Natural Food Market,41.10147960000001,-80.73253299999998,"4405 Mahoning Ave, Youngstown",ChIJVyxFCnrjM4gRs4MqR9KsPpY,Mahoning County,"231,064","$              44,682","$              27,429","39,441",17.07%
+Berry's,41.10147960000001,-80.73253299999998,"4405 Mahoning Ave, Youngstown",ChIJVyxFCnrjM4gRs4MqR9KsPpY,Mahoning County,"231,064","$              44,682","$              27,429","39,441",17.07%
 Marc's Stores,41.099588,-80.742662,"4755 Mahoning Ave, Austintown",ChIJCSe4z3LjM4gRuQ7-xJoRFL0,Mahoning County,"231,064","$              44,682","$              27,429","39,441",17.07%
 Marc's Stores,41.026832,-80.62867299999998,"7121 Tiffany Blvd, Youngstown",ChIJU8-GbnnwM4gRfX41a7dzzU4,Mahoning County,"231,064","$              44,682","$              27,429","39,441",17.07%
 Save A Lot,41.08272119999999,-80.7302768,"1715 S Raccoon Rd, Austintown",ChIJZTF3TFvjM4gRtemNnCfrT40,Mahoning County,"231,064","$              44,682","$              27,429","39,441",17.07%
